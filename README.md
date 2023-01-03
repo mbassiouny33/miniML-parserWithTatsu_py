@@ -4,6 +4,3 @@ And a parser for a toy circuit language with boolean types, boolean operators an
 
 Tatsu: http://tatsu.readthedocs.io/
 
-May god forgive me for using that tool...
-
-Released under gpl-3.0
